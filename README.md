@@ -1,2 +1,2 @@
 # Snake-on-CMD
-Snake ame on cmd
+Snake game on cmd
